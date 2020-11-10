@@ -16,6 +16,8 @@ source:
     - python.patch
     - tests.patch
     - link_librt.patch
+    - acro.c53c659.patch
+    - acro.c26e665.patch
 
 build:
   number: 2
